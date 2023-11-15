@@ -61,8 +61,8 @@ int main()
      cout<<"2:"; 
      cin>>x2;
      cin>>b;
-     p1.setFirst(x2);
-     p1.setSecond(b);
+     p2.setFirst(x2);
+     p2.setSecond(b);
      cout<<endl;
      cout<<p1.getFirst()<<" and "<< p1.getSecond()<<endl;
      cout<<p2.getFirst()<<" and "<< p2.getSecond()<<endl;
